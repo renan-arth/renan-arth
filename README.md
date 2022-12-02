@@ -5,11 +5,11 @@
 > Procuro adquirir cada vez mais conhecimento na área e explorar bastante o Front-End!
 
 <a href="https://github.com/renan-arth">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renan-arth&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-arth&theme=dracula&show_icons=true" />
 </a>
 
 <a href="https://github.com/renan-arth">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-arth&theme=dracula&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-arth&theme=dracula&hide_langs_below=1" />
 </a>
 
 ## **Linguagens:**
