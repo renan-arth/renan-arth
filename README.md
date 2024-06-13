@@ -2,7 +2,7 @@
 
 > Atualmente atuo como desenvolvedor Back-End C# | Tech Lead na <a href="fitbank.com.br">FitBank450</a>.<br>
 > Sou formado em Análise e Desenvolvimento de Sistemas.<br>
-> Procuro adquirir cada vez mais conhecimento na área e explorar bastante o Front-End!
+> Procuro adquirir cada vez mais conhecimento na área e explorar bastante!
 
 <a href="https://github.com/renan-arth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-arth&theme=dracula&show_icons=true" />
